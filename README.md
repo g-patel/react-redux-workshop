@@ -209,7 +209,7 @@ JSX is a tiny extension to JavaScript specifically for React (though other frame
 Add the following script tag above your other script tags.
 
 ```html
-<script src='https://unpkg.com/@babel/standalone@7.0.0-beta.4/babel.min.js'></script>
+<script src='https://unpkg.com/@babel/standalone@7.0.0-beta.40/babel.js'></script>
 ```
 
 Change the opening script tag of your code block from `<script>` to be
